@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  margin-top: 10%;
+  background-color: #FEFEB5;
+  line-height: 1.1em;
+}
+div {
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-left: 1%;
+  font-family: Calibri;
+  line-height: 1.1em;
+}
+h2 {
+  font-family: "Times New Roman";
+  font-size: 200%;
+  color:  #0F60C3;
+}
+h1 {
+  font-family: "Calibri";
+  color:  #4AA32B;
+}
+
+#a35 {
+	color: #000000;
+}
+#inaltime {
+    text-decoration: none;
+    color:  #0F60C3;
+    font-family: "Calibri";
+    line-height: 5em;
+    font-weight: bold;
+}
